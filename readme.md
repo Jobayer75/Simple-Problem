@@ -1,5 +1,7 @@
-# slice() মূল অ্যারেকে চেইঞ্জ করে না ।
 
-# splice(start, end) মূল অ্যারে কে চেইঞ্জ করে ।
 
-# sort() দিয়ে একটা অ্যারে এর উপাদানগুলিকে সিরিয়াল অনুসারে (ক্রম অনুসারে) সাজানো হয়।
+# `slice()` does not change the original array.
+
+# `splice(start, end)` changes the original array.
+
+#  `sort()` arranges the elements of an array in serial order (in order or sequence) using the specified criteria.
